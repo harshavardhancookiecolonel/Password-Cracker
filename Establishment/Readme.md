@@ -25,9 +25,11 @@ The greater-than symbol followed by a space (> ) represents the user input. Note
 Example 1:
 
 > python hack.py localhost 9090 password
+
 Wrong password!
-> 
+
 Example 2:
 
 > python hack.py 127.0.0.1 9090 qwerty
+
 Connection Success!
